@@ -15,24 +15,24 @@ export default function FRCResources() {
         </a>
       </p>
 
-      <h4>2023 FIRST Competition: Charged Up</h4>
+      <h4>2023 FIRST Competition: Crecsendo</h4>
 
       <p>
-        <a href="https://www.youtube.com/watch?v=0zpflsYc4PA">
+        <a href="https://www.youtube.com/watch?v=9keeDyFxzY4">
           Introduction Video
         </a>
       </p>
 
       <p>
-        <a href="https://firstfrc.blob.core.windows.net/frc2023/Manual/2023FRCGameManual.pdf">
+        <a href="https://firstfrc.blob.core.windows.net/frc2024/Manual/2024GameManual.pdf">
           Rule Book
         </a>
       </p>
 
       <h3 id="past-competitions">Past Competitions</h3>
       <p>
-        <a href="https://www.youtube.com/watch?v=I77Dz9pfds4">
-          FRC 2021: INFINITE RECHARGE
+        <a href="https://www.youtube.com/watch?v=0zpflsYc4PA">
+          FRC 2023: CHARGED UP
         </a>
       </p>
       <p>
